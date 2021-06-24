@@ -22,6 +22,4 @@ function App() {
   );
 }
 
-// --refatorar o codigo
-
 export default App;
